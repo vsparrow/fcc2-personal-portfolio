@@ -1,0 +1,22 @@
+@media (min-width: 980px) {
+  body {
+    padding-top: 60px;
+    padding-bottom: 42px;
+  }
+}
+.img-responsive {
+    margin: 0 auto;
+}
+
+.img-circle {
+    border-radius: 50%;
+}
+.about-text {
+	padding-bottom: 10px;
+}
+.thumbnail:hover {
+   border-color: black;
+}
+.thumbnail a:hover {
+	color : red;
+}
