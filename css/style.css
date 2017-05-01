@@ -25,6 +25,9 @@
   .intro img {
     display: none;
   }
+  #self-image {
+  	display: none
+  }
 }
 /*navbar dropdown align text to right for better UX*/
 .navbar-right {
