@@ -20,3 +20,9 @@
 .thumbnail a:hover {
 	color : red;
 }
+/*add to make iamges not display at phone sizes*/
+@media screen and (max-width:480px) {  
+  .intro img {
+    display: none;
+  }
+}
