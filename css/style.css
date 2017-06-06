@@ -4,6 +4,11 @@
     padding-bottom: 42px;
   }
 }
+
+a {
+	color: black;
+}
+
 .img-responsive {
     margin: 0 auto;
 }
